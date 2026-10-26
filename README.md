@@ -33,4 +33,7 @@ README.md
 
 My favorite technology is a laptop because it helps me with my schoolwork, research, and assignments. I also like using it to learn new computer skills, explore the internet, and improve my knowledge of technology.
 
+# Reflection
+
+Git helps me manage changes to my work by keeping track of the updates I make to my files. It allows me to review previous versions, see what I changed, and return to an earlier version if needed. GitHub also makes it easier to store and share my projects.
 
