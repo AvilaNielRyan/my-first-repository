@@ -14,3 +14,12 @@ README.md
 
 
 **My First Commit:** This repository is my first activity in learning version control.
+
+## What I Learned
+
+
+- Git tracks changes to files.
+
+- GitHub hosts repositories online.
+
+- Commits record changes in the project history.
