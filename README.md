@@ -23,3 +23,14 @@ README.md
 - GitHub hosts repositories online.
 
 - Commits record changes in the project history.
+
+# My Computing Goals
+  - Learn how to code using Python.
+  - Improve my computer troubleshooting skills.
+  - Learn how to create webites.
+
+# My Favorite Technology
+
+My favorite technology is a laptop because it helps me with my schoolwork, research, and assignments. I also like using it to learn new computer skills, explore the internet, and improve my knowledge of technology.
+
+
